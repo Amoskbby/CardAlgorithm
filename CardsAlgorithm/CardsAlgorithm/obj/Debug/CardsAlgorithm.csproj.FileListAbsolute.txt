@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\CardsAlgorithm\CardsAlgorithm\bin\Debug\CardsAlgorithm.exe.config
+C:\Users\Administrator\source\repos\CardsAlgorithm\CardsAlgorithm\bin\Debug\CardsAlgorithm.exe
+C:\Users\Administrator\source\repos\CardsAlgorithm\CardsAlgorithm\bin\Debug\CardsAlgorithm.pdb
+C:\Users\Administrator\source\repos\CardsAlgorithm\CardsAlgorithm\obj\Debug\CardsAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\CardsAlgorithm\CardsAlgorithm\obj\Debug\CardsAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CardsAlgorithm\CardsAlgorithm\obj\Debug\CardsAlgorithm.exe
+C:\Users\Administrator\source\repos\CardsAlgorithm\CardsAlgorithm\obj\Debug\CardsAlgorithm.pdb
